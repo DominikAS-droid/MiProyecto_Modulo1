@@ -11,7 +11,7 @@ def mostrar_home():
 
     c1, c2, c3 = st.columns([1, 3, 1])
     with c2:
-        st.image("./Ejercicio_Proyecto_1/dmc.png", width="stretch")
+        st.image("dmc.png", width="stretch")
 
     st.markdown("---")
     c1, c2 = st.columns([1, 1])
